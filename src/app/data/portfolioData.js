@@ -24,9 +24,9 @@ export const portfolioData = {
     ],
     contact: {
       email: "20240948@sungshin.ac.kr",
-      github: 
-      linkedin: 
-      blog: 
+      github: '',
+      linkedin: '',
+      blog: '',
     }
   },
   clubs: [
